@@ -10,4 +10,6 @@ My personal page with my link
 
 В будущем планирую проапгрейдить и добавить еще одну страницу с ссылками на обучающие ресурсы. 
 
+> **HTML/CSS**
+
 ![image](https://github.com/wingofnight/private-office/blob/main/images/2023-02-07-12-20-07.gif)
